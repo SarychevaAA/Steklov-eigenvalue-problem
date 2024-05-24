@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/arrow_back.svg</file>
+    <file>icons/arrow_down.svg</file>
+    <file>icons/arrow-right.svg</file>
+    <file>icons/arrow_up.svg</file>
+    <file>icons/close.svg</file>
+    <file>icons/close_fullscreen.svg</file>
+    <file>icons/done.svg</file>
+    <file>icons/down.svg</file>
+    <file>icons/expand_content.svg</file>
+    <file>icons/list_down.svg</file>
+    <file>icons/open.svg</file>
+    <file>icons/remove.svg</file>
+    <file>icons/task_alt.svg</file>
+    <file>icons/up.svg</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file>fonts/Montserrat-Regular.ttf</file>
+  </qresource>
+</RCC>

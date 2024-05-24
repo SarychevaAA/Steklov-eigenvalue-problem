@@ -1,0 +1,51 @@
+{
+	"QMainWindow":[
+		{
+			"tittle":"SarychevaAA",
+			"frameless": true,
+			"transluscentBg": true,
+			"sizeGrip": "size_grip",
+			"navigation":[
+				{
+					"minimize":"minimize_window_button",
+					"close": "close_window_button",
+					"restore":[
+						{
+							"buttonName": "restore_window_button",
+							"normalIcon": "resources/icons/open.svg",
+							"maximizedIcon": "resources/icons/close_fullscreen.svg"
+						}
+					],
+					"moveWindow": "header_frame",
+					"tittleBar": "header_frame"
+				}
+			]
+		}
+	],
+	"QCustomSlideMenu": [{
+		"name": "frame_6",
+		"defaultSize": [{
+			"width": 290,
+			"height": "parent"
+		}],
+		"collapsedSize": [{
+			"width": 0,
+			"height": "parent"
+		}],
+		"expandedSize": [{
+			"width": 290,
+			"height": "parent"
+		}],
+		"toggleButton": [{
+			"buttonName": "pushButton_7",
+			"icons": [{
+				"whenMenuIsCollapsed": "resources/icons/arrow-right.svg",
+				"whenMenuIsExpanded": "resources/icons/arrow_back.svg"
+			}]
+		}],
+		"menuTransitionAnimation": [{
+			"animationDuration": 50,
+			"animationEasingCurve": "Linear"
+		}]
+	}]
+}
